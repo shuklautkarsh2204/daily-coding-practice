@@ -57,11 +57,11 @@ Problems are solved from platforms such as:
 
 ## Featured Problems
 
-| Problem | Topic | Difficulty | Link |
-|----------|----------|----------|----------|
-| Problem Name | Topic | Easy/Medium/Hard | [View Problem](URL) |
-| Problem Name | Topic | Easy/Medium/Hard | [View Problem](URL) |
-| Problem Name | Topic | Easy/Medium/Hard | [View Problem](URL) |
+| Problem | Difficulty | Link |
+|----------|----------|----------|
+| Two Sum | Easy | https://leetcode.com/problems/two-sum/description/ |
+| Longest Substring without Repeating Characters | Medium | https://leetcode.com/problems/longest-substring-without-repeating-characters/description/ |
+| Problem Name | Easy/Medium/Hard | [View Problem](URL) |
 
 > Add new rows as you solve more problems.
 
