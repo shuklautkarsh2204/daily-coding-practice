@@ -63,13 +63,12 @@ Problems are solved from platforms such as:
 | Longest Substring without Repeating Characters | Medium | https://leetcode.com/problems/longest-substring-without-repeating-characters/description/ |
 | Problem Name | Easy/Medium/Hard | [View Problem](URL) |
 
-> Add new rows as you solve more problems.
 
 ---
 
 
 
----
+
 
 ## Repository Goal
 
@@ -77,9 +76,6 @@ The goal of this repository is to maintain consistency in problem solving, impro
 
 ---
 
-
-
----
 
 ### Connect With Me
 
