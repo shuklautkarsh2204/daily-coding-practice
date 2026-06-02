@@ -22,6 +22,7 @@ Currently, solutions in this repository are written in:
 
 - C++
 - Python
+- SQL
 
 ---
 
