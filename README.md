@@ -39,7 +39,7 @@ Currently, solutions in this repository are written in:
 - Greedy Algorithms
 - Number Theory
 - Bit Manipulation
-- Hashing
+- DataBase queries
 - Sliding Window
 - Two Pointers
 - and many more...
