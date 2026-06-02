@@ -62,6 +62,7 @@ Problems are solved from platforms such as:
 | Two Sum | Easy | https://leetcode.com/problems/two-sum/description/ |
 | Longest Substring without Repeating Characters | Medium | https://leetcode.com/problems/longest-substring-without-repeating-characters/description/ |
 | Second Largest Salary | Medium | https://leetcode.com/problems/second-highest-salary/description/?envType=problem-list-v2&envId=database |
+> And many more... just go through the repo.
 
 
 ---
@@ -72,7 +73,7 @@ Problems are solved from platforms such as:
 
 ## Repository Goal
 
-The goal of this repository is to maintain consistency in problem solving, improve algorithmic thinking, and build a strong foundation in Data Structures & Algorithms.
+The goal of this repository is to maintain consistency in problem solving, improve algorithmic thinking, and build a strong foundation in Data Structures & Algorithms and other Coding practices.
 
 ---
 
