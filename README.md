@@ -61,7 +61,7 @@ Problems are solved from platforms such as:
 |----------|----------|----------|
 | Two Sum | Easy | https://leetcode.com/problems/two-sum/description/ |
 | Longest Substring without Repeating Characters | Medium | https://leetcode.com/problems/longest-substring-without-repeating-characters/description/ |
-| Problem Name | Easy/Medium/Hard | [View Problem](URL) |
+| Second Largest Salary | Medium | https://leetcode.com/problems/second-highest-salary/description/?envType=problem-list-v2&envId=database |
 
 
 ---
